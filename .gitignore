@@ -4,6 +4,9 @@
 # Visual Studio 2015 database file
 *.VC.db
 
+# zips, preface incremental zip archives with the name archive
+archive*.zip
+
 # Compiled Object files
 *.slo
 *.lo
