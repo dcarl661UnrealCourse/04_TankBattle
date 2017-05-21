@@ -5,10 +5,10 @@
 *.VC.db
 
 # big unreal files
-*BattleTank/Content/StarterContent/
+BattleTank/Content/StarterContent/
 
 # zips, preface incremental zip archives with the name archive
-*archive*.zip
+archive*.zip
 
 # Compiled Object files
 *.slo
